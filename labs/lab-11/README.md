@@ -30,10 +30,10 @@ Follow [the Lab 11 walkthrough video](https://youtu.be/Fc33NVJzr68) (22 min). Th
 
 Each screenshot is the Outline, the tree on the left of the Mechanical window, with every branch expanded so all of its items show. Every item above Solution has a green check mark, which means it is fully defined; the mesh gets its green check once it is generated. The items under Solution keep their yellow lightning bolt because they have not been solved, and that is expected. A question mark means an item still needs an input, most often a selection that was never applied.
 
-## 1. Gear pair: the Outline, set up
+<img width="518" height="610" alt="Screenshot 2026-11-12 162753" src="https://github.com/user-attachments/assets/e95c7a7b-1bd0-4ed6-8db1-d6c066a47100" />
 
-(add screenshot)
 
 ## 2. Slider-crank: the Outline, set up
 
-(add screenshot)
+<img width="458" height="545" alt="Screenshot 2026-11-12 162802" src="https://github.com/user-attachments/assets/25b98bc6-fcd6-4b1e-8426-1e6fa87150ba" />
+
